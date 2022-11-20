@@ -1,0 +1,8 @@
+/vids
+
+/Backend/node_modules
+
+/generated_PDF
+/frontend/node_modules
+**/**/node_modules
+
